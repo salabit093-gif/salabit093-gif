@@ -81,3 +81,44 @@ Here are some of the key projects I’m proud of. (If you like, I can pull in yo
 - Learning advanced ML techniques and deployment to mobile  
 - Contributing to open-source projects related to mobile / AI  
 - Sharing knowledge via blog / GitHub  
+🎯 What I Do
+<div align="center"> <table> <tr> <td align="center" width="33%"> <img src="https://img.icons8.com/color/96/flutter.png" /> <h3>📱 Mobile Development</h3> <p>Flutter apps with clean UI, TFLite models, API integration</p> </td>
+
+🎯 What I Do
+<div align="center"> <table> <tr> <td align="center" width="33%"> <img src="https://img.icons8.com/color/96/flutter.png" /> <h3>📱 Mobile Development</h3> <p>Flutter apps with clean UI, TFLite models, API integration</p> </td>
+  <td align="center" width="33%">
+    <img src="https://img.icons8.com/color/96/artificial-intelligence.png" />
+    <h3>🤖 AI + ML</h3>
+    <p>Image classifiers, AI integration, TensorFlow Lite mobile apps</p>
+  </td>
+
+  <td align="center" width="33%">
+    <img src="https://img.icons8.com/color/96/source-code.png" />
+    <h3>🛠 System Tools</h3>
+    <p>Debug utilities, experiments, automation scripts</p>
+  </td>
+</tr>
+
+</table> </div>
+🛠️ Tech Stack
+<div align="center">
+💻 Languages
+📱 Frameworks
+🤖 AI / ML
+🗄 Databases
+🔧 Tools
+</div>
+📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salabit093-gif&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salabit093-gif&layout=compact&theme=tokyonight&hide_border=true"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=salabit093-gif&theme=tokyonight&hide_border=true" /> </div>
+🐍 Contribution Snake Animation
+
+(Optional but cool)
+Add this at the bottom of your README:
+
+![Snake animation](https://github.com/salabit093-gif/salabit093-gif/blob/output/github-contribution-grid-snake.svg)
+
+
+I can generate the GitHub Action file for this too — just say “Add the snake action file”.
+
+🔗 Connect With Me
+<div align="center"> <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </div>
