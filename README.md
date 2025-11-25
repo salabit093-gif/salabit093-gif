@@ -84,7 +84,7 @@ Here are some of the key projects I’m proud of. (If you like, I can pull in yo
 🎯 What I Do
 <div align="center"> <table> <tr> <td align="center" width="33%"> <img src="https://img.icons8.com/color/96/flutter.png" /> <h3>📱 Mobile Development</h3> <p>Flutter apps with clean UI, TFLite models, API integration</p> </td>
 
-🎯 What I Do
+##🎯 What I Do
 <div align="center"> <table> <tr> <td align="center" width="33%"> <img src="https://img.icons8.com/color/96/flutter.png" /> <h3>📱 Mobile Development</h3> <p>Flutter apps with clean UI, TFLite models, API integration</p> </td>
   <td align="center" width="33%">
     <img src="https://img.icons8.com/color/96/artificial-intelligence.png" />
@@ -100,7 +100,7 @@ Here are some of the key projects I’m proud of. (If you like, I can pull in yo
 </tr>
 
 </table> </div>
-🛠️ Tech Stack
+##🛠️ Tech Stack
 <div align="center">
 💻 Languages
 📱 Frameworks
@@ -108,7 +108,7 @@ Here are some of the key projects I’m proud of. (If you like, I can pull in yo
 🗄 Databases
 🔧 Tools
 </div>
-📊 GitHub Analytics
+##📊 GitHub Analytics
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salabit093-gif&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salabit093-gif&layout=compact&theme=tokyonight&hide_border=true"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=salabit093-gif&theme=tokyonight&hide_border=true" /> </div>
 🐍 Contribution Snake Animation
 
