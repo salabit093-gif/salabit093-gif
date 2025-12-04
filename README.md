@@ -1,80 +1,45 @@
-<!-- Header Typing Banner -->
+<!-- Smooth Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=2000&color=00A9FF&center=true&vCenter=true&width=900&lines=Hello+%F0%9F%91%8B+I'm+Regie+Salabit;Mobile+Developer+%7C+Flutter+%7C+Java;AI+%26+Machine+Learning+Enthusiast;Always+Learning+%E2%9C%93+Always+Building+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=3000&pause=2000&color=6BD5FF&center=true&vCenter=true&width=850&lines=Hello+👋+I'm+Regie+Salabit;Mobile+Developer+%7C+Flutter+Engineer;AI+%26+Machine+Learning+Enthusiast;Crafting+Apps+with+Logic+and+Creativity✨" />
 </div>
 
-<!-- Wave Banner -->
+<!-- Aesthetic Gradient Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00A9FF,100:6BDAFF&text=Welcome+to+My+GitHub+Profile&fontSize=40&fontAlignY=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=0,2,4,6&text=Welcome+to+My+Developer+Space&fontSize=40&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
 </div>
 
 ---
 
-## 👋 **About Me**
+# 👤 **About Me**
+> _“Building things that matter — with code, logic, and imagination.”_
 
-- **Name:** Regie Salabit  
-- **Role:** Mobile Developer & System Programmer  
-- **Location:** 📍 Agusan del Norte · Tubay · Agusan Santa  
-- **Passion:** Building mobile apps, integrating AI & ML, and creating useful system tools  
-
-I’m a developer who loves building things that make life easier. I started with **Java**, evolved into **Flutter + Dart**, and now I'm exploring **AI & Machine Learning** to integrate into mobile apps.  
-When I'm not coding, I experiment, read tech trends, or create tools to automate tasks.
-
----
-
-## 🧰 **Skillset**
-
-### 💬 **Languages & Frameworks**
-- **Dart & Flutter** — Polished and scalable mobile apps  
-- **Java** — System utilities and backend-like logic  
-- **Python** — AI, ML models, small automation tools  
-- **JavaScript / TypeScript** — Web experiments & API testing  
-
-### 🛠 **Tools & Technologies**
-- **Firebase** (Auth, Firestore, Storage, Cloud Functions)  
-- **TensorFlow Lite** (AI/ML inside Flutter apps)  
-- **Git & GitHub**  
-- **VS Code & Android Studio**
-
-### 🧩 **Software Practices**
-- Clean architecture  
-- Modular coding  
-- UI/UX best practices  
-- Continuous learning mindset  
+- 🧑‍💻 **Mobile Developer & System Programmer**  
+- 📍 **Agusan del Norte · Tubay · Agusan Santa**  
+- ❤️ Passion for **Flutter**, **Java**, **AI/ML**, and **automation tools**  
+- 🔍 Always exploring **new frameworks**, **UI concepts**, and **ML on mobile**  
+- 🚀 I love creating **useful**, **clean**, and **well-designed** applications.  
 
 ---
 
-## 📂 **Featured Projects**
-
-| Project | Description |
-|--------|-------------|
-| **📸 Mobile Image Classifier (Flutter + TFLite)** | A mobile application that uses on-device ML to classify images. |
-| **💼 Payroll / System Tools (Java)** | Java utilities for payroll, number systems, and business automation. |
-| **🧪 Learning Playground** | A sandbox repo for testing: ML models, UI concepts, scripts, etc. |
-
----
-
-## 🎯 **What I Do**
+# 🧰 **Skillset Overview**
 
 <div align="center">
 <table>
 <tr>
   <td align="center" width="33%">
-    <img src="https://img.icons8.com/color/96/flutter.png"/>
-    <h3>📱 Mobile Development</h3>
-    <p>Flutter apps · clean UI · API integration · TFLite</p>
+    <img src="https://skillicons.dev/icons?i=flutter,dart" width="90"/>
+    <h3>Mobile Development</h3>
+    <p>Cross-platform apps · UI/UX · API Integration · TFLite</p>
   </td>
-
   <td align="center" width="33%">
-    <img src="https://img.icons8.com/color/96/artificial-intelligence.png"/>
-    <h3>🤖 AI & Machine Learning</h3>
-    <p>Image classifiers · mobile AI · TensorFlow Lite</p>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow" width="90"/>
+    <h3>Machine Learning</h3>
+    <p>Image models · On-device AI · ML pipelines</p>
   </td>
-
   <td align="center" width="33%">
-    <img src="https://img.icons8.com/color/96/source-code.png"/>
-    <h3>🛠 System Tools</h3>
-    <p>Debug utilities · automation · experimental tools</p>
+    <img src="https://skillicons.dev/icons?i=java,gradle" width="90"/>
+    <h3>System Programming</h3>
+    <p>Backend-like logic · utilities · automation tools</p>
   </td>
 </tr>
 </table>
@@ -82,16 +47,64 @@ When I'm not coding, I experiment, read tech trends, or create tools to automate
 
 ---
 
-## 🛠️ **Tech Stack**
-<div align="center">
+# 🚀 **Tech Stack**
 
-**💻 Languages** | **📱 Frameworks** | **🤖 AI/ML** | **🗄 Databases** | **🔧 Tools**
+<div align="center">
+  
+| Category | Tools |
+|---------|-------|
+| **Languages** | <img src="https://skillicons.dev/icons?i=dart,java,python,js,ts" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=flutter,react" /> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=firebase,mysql" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github" /> |
 
 </div>
 
 ---
 
-## 📊 **GitHub Analytics**
+# 📦 **Featured Projects**
+
+### 📸 **Mobile Image Classifier (Flutter + TFLite)**
+A mobile AI image classifier running fully offline using TensorFlow Lite.
+
+### 💼 **Payroll / System Tools (Java)**
+Automated payroll system, base-conversion utilities, and logic-heavy system tools.
+
+### 🧪 **Learning Playground**
+A repo for ML tests, widgets, UI experiments, and side projects.
+
+---
+
+# 🎯 **What I Do Best**
+
+<div align="center">
+<table>
+<tr>
+  <td align="center" width="33%">
+    <img src="https://img.icons8.com/color/96/flutter.png" />
+    <h3>📱 Mobile Engineering</h3>
+    <p>Flutter apps · clean UI · optimized performance</p>
+  </td>
+
+  <td align="center" width="33%">
+    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/90/00A9FF/external-ai-artificial-intelligence-flatart-icons-outline-flatarticons.png"/>
+    <h3>🤖 AI + ML Integration</h3>
+    <p>Image recognition · mobile AI · smart features</p>
+  </td>
+
+  <td align="center" width="33%">
+    <img src="https://img.icons8.com/color/96/source-code.png"/>
+    <h3>🛠 System Utilities</h3>
+    <p>Debug tools · converters · automation scripts</p>
+  </td>
+</tr>
+</table>
+</div>
+
+---
+
+# 📊 **GitHub Analytics**
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=salabit093-gif&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -99,13 +112,11 @@ When I'm not coding, I experiment, read tech trends, or create tools to automate
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salabit093-gif&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=salabit093-gif&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 🐍 **Contribution Snake Animation**
-> Optional but looks cool
-
+# 🐍 **Contribution Snake**
 ```md
-![Snake animation](https://github.com/salabit093-gif/salabit093-gif/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/salabit093-gif/salabit093-gif/blob/output/github-contribution-grid-snake.svg)
