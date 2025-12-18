@@ -48,6 +48,13 @@
 
 # 🎒 <span style="color:#6BD5FF;">SchoolLens Project</span>
 
+### Project Information
+
+- **Project Title:** SchoolLens  
+- **Image Classification Type:** Notebook, Pen, Pencil, Eraser, Ruler, Calculator  
+- **Student Name:** Salabit, Regie A.  
+- **GitHub Link:** [SchoolSuppliesApp Repository](https://github.com/salabit093-gif/SchoolSuppliesApp)  
+
 ### AI-Powered School Supplies Identifier (Flutter + TFLite + Firebase)
 
 <div align="center">
