@@ -25,96 +25,87 @@
 <div align="center">
 <table>
 <tr>
-
 <td align="center" width="33%">
   <img src="https://skillicons.dev/icons?i=flutter,dart" width="90"/>
   <h3 style="color:white;">Mobile Development</h3>
   <p style="color:#bfbfbf;">UI/UX · Cross-Platform · APIs · TFLite</p>
 </td>
-
 <td align="center" width="33%">
   <img src="https://skillicons.dev/icons?i=python,tensorflow" width="90"/>
   <h3 style="color:white;">Machine Learning</h3>
   <p style="color:#bfbfbf;">Image Models · On-device AI · ML Pipelines</p>
 </td>
-
 <td align="center" width="33%">
   <img src="https://skillicons.dev/icons?i=java,gradle" width="90"/>
   <h3 style="color:white;">System Programming</h3>
   <p style="color:#bfbfbf;">Utilities · Logic Tools · Automation</p>
 </td>
-
 </tr>
 </table>
 </div>
 
 ---
 
-# 🚀 <span style="color:#6BD5FF;">Tech Stack</span>
+# 🎒 <span style="color:#6BD5FF;">SchoolLens Project</span>
+
+### AI-Powered School Supplies Identifier (Flutter + TFLite + Firebase)
 
 <div align="center">
 
-| Category | Tools |
-|--------|------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=dart,java,python,js,ts" /> |
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
+
+**About the App:**
+
+**SchoolLens** identifies school supplies (notebooks, pens, pencils, erasers, rulers, calculators) using your phone camera, with fast **TFLite AI** processing and cloud-synced history via **Firebase**.
+
+> 🎯 High Accuracy · ⚡ Under 2s per scan · ☁️ Cloud Sync
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+| 🏠 Home | 🖼 Gallery | 📷 Camera | 📜 History |
+|:---:|:---:|:---:|:---:|
+| Dashboard & stats | Image selection from gallery | Live camera scan | Cloud-synced scan logs |
+| ![Home](https://raw.githubusercontent.com/salabit093-gif/SchoolSuppliesApp/main/Home.jpg) | ![Gallery](https://raw.githubusercontent.com/salabit093-gif/SchoolSuppliesApp/main/Gallery.jpg) | ![Camera](https://raw.githubusercontent.com/salabit093-gif/SchoolSuppliesApp/main/Camera.jpg) | ![History](https://raw.githubusercontent.com/salabit093-gif/SchoolSuppliesApp/main/History.jpg) |
 
 </div>
 
 ---
 
-# 📦 <span style="color:#6BD5FF;">Featured Projects</span>
+## ✨ Features
 
-### 📸 Mobile Image Classifier (Flutter + TFLite)
-A mobile AI image classifier running fully offline using TensorFlow Lite.
-
-### 💼 Payroll / System Tools (Java)
-Automated payroll system, base-conversion utilities, and logic-heavy system tools.
-
-### 🧪 Learning Playground
-A repository for ML tests, widgets, UI experiments, and side projects.
+- 📸 Real-Time Scanning with live camera  
+- 🤖 On-device TFLite AI Classification  
+- 🖼 Gallery Image Analysis  
+- 📊 Dashboard with Accuracy & Scan Stats  
+- 🗂 Scan History with Cloud Sync  
 
 ---
 
-# 🎯 <span style="color:#6BD5FF;">What I Do Best</span>
+## ⚙️ Prerequisites
 
-<div align="center">
-<table>
-<tr>
-
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/color/96/flutter.png" />
-  <h3 style="color:white;">📱 Mobile Engineering</h3>
-  <p style="color:#bfbfbf;">Clean UI · Optimized Performance</p>
-</td>
-
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/90/00A9FF/external-ai-artificial-intelligence-flatart-icons-outline-flatarticons.png"/>
-  <h3 style="color:white;">🤖 AI + ML Integration</h3>
-  <p style="color:#bfbfbf;">Mobile AI · Smart Features</p>
-</td>
-
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/color/96/source-code.png"/>
-  <h3 style="color:white;">🛠 System Utilities</h3>
-  <p style="color:#bfbfbf;">Converters · Debug Tools</p>
-</td>
-
-</tr>
-</table>
-</div>
+- Flutter SDK 3.0+  
+- Dart SDK 3.0+  
+- Android Studio / Xcode  
+- Firebase account
 
 ---
 
-# 📊 <span style="color:#6BD5FF;">GitHub Analytics</span>
+## 🔄 How It Works
 
-<div align="center">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=salabit093-gif&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-# 🐍 <span style="color:#6BD5FF;">Contribution Snake</span>
-
-```md
-![snake](https://github.com/salabit093-gif/salabit093-gif/blob/output/github-contribution-grid-snake.svg)
+```mermaid
+graph LR
+    A[📱 Launch App] --> B[📸 Capture/Select Image]
+    B --> C[🤖 TFLite Processing]
+    C --> D[✅ AI Classification]
+    D --> E[📊 Display Results]
+    E --> F[☁️ Save to Firebase]
+    F --> G[📜 Update History]
