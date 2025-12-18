@@ -6,14 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=3000&pause=2000&color=6BD5FF&center=true&vCenter=true&width=850&lines=Hello+👋+I'm+Regie+Salabit;Mobile+Developer+%7C+Flutter+Engineer;AI+%26+Machine+Learning+Enthusiast;Crafting+Apps+with+Logic+and+Creativity✨" />
 </div>
 
-<!-- Aesthetic Gradient Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=0,2,4,6&text=Welcome+to+My+Developer+Space&fontSize=40&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:000000,50:00507A,100:00A9FF&text=Welcome+to+My+Developer+Space&fontSize=40&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
-</div>
-
-</div>
-
 ---
 
 # 👤 <span style="color:#6BD5FF;">About Me</span>
