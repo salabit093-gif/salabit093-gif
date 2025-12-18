@@ -51,7 +51,7 @@
 ### Project Information
 
 - **Project Title:** SchoolLens  
-- **Image Classification Type:** Notebook, Pen, Pencil, Eraser, Ruler, Calculator  
+- **Image Classification Type:** Pencil, Notebook, Crayon, Eraser, Sharpener, Ruler, Marker, Scissors, Calculator, Glue  
 - **Student Name:** Salabit, Regie A.  
 - **GitHub Link:** [SchoolSuppliesApp Repository](https://github.com/salabit093-gif/SchoolSuppliesApp)  
 
@@ -68,7 +68,7 @@
 
 **About the App:**
 
-**SchoolLens** identifies school supplies (notebooks, pens, pencils, erasers, rulers, calculators) using your phone camera, with fast **TFLite AI** processing and cloud-synced history via **Firebase**.
+**SchoolLens** identifies school supplies (**Pencil, Notebook, Crayon, Eraser, Sharpener, Ruler, Marker, Scissors, Calculator, Glue**) using your phone camera, with fast **TFLite AI** processing and cloud-synced history via **Firebase**.
 
 > 🎯 High Accuracy · ⚡ Under 2s per scan · ☁️ Cloud Sync
 
