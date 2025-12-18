@@ -1,126 +1,116 @@
-<!-- FULL BLACK BACKGROUND WRAPPER -->
-<div style="background-color:#000000; padding: 20px; border-radius: 12px;">
+# 🎒 SchoolLens
 
-<!-- Smooth Typing Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=3000&pause=2000&color=6BD5FF&center=true&vCenter=true&width=850&lines=Hello+👋+I'm+Regie+Salabit;Mobile+Developer+%7C+Flutter+Engineer;AI+%26+Machine+Learning+Enthusiast;Crafting+Apps+with+Logic+and+Creativity✨" />
-</div>
+## AI-Powered School Supplies Identifier
 
-<!-- Aesthetic Gradient Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:000000,50:00507A,100:00A9FF&text=Welcome+to+My+Developer+Space&fontSize=40&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
-</div>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
----
+**ITE120 Final Project · CSUCC**
 
-# 👤 <span style="color:#6BD5FF;">About Me</span>
-> <span style="color:#9ae6ff;">“Building things that matter — with code, logic, and imagination.”</span>
-
-- 🧑‍💻 <span style="color:#ffffff;">Mobile Developer & System Programmer</span>  
-- 📍 <span style="color:#ffffff;">Agusan del Norte · Tubay · Agusan Santa</span>  
-- ❤️ Passion for <span style="color:#6BD5FF;">Flutter</span>, <span style="color:#6BD5FF;">Java</span>, <span style="color:#6BD5FF;">AI/ML</span>  
-- 🔍 Always exploring **UI concepts**, **ML**, and **system tools**  
-- 🚀 Creating **clean**, **useful**, and **modern** applications  
+**Regie A. Salabit**  
+IT Student | Caraga State University – Cabadbaran Campus (CSUCC)
 
 ---
 
-# 🧰 <span style="color:#6BD5FF;">Skillset Overview</span>
+## 📘 About
 
-<div align="center">
-<table>
-<tr>
-  <td align="center" width="33%">
-    <img src="https://skillicons.dev/icons?i=flutter,dart" width="90"/>
-    <h3 style="color:white;">Mobile Development</h3>
-    <p style="color:#bfbfbf;">UI/UX · Cross-Platform · APIs · TFLite</p>
-  </td>
-  <td align="center" width="33%">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow" width="90"/>
-    <h3 style="color:white;">Machine Learning</h3>
-    <p style="color:#bfbfbf;">Image models · On-device ML</p>
-  </td>
-  <td align="center" width="33%">
-    <img src="https://skillicons.dev/icons?i=java,gradle" width="90"/>
-    <h3 style="color:white;">System Programming</h3>
-    <p style="color:#bfbfbf;">Utilities · Logic Tools · Automation</p>
-  </td>
-</tr>
-</table>
-</div>
+**SchoolLens** is an intelligent mobile application that uses **TensorFlow Lite** to identify
+**school supplies** (such as notebooks, pens, pencils, erasers, rulers, calculators) using a
+smartphone camera.
+
+The app is built with **Flutter** for smooth cross-platform performance and integrated with
+**Firebase** for real-time cloud synchronization.
+
+### Highlights
+- 🎯 High-accuracy school supplies classification  
+- ⚡ Fast on-device inference (under 2 seconds)  
+- ☁️ Cloud-synced scan history  
 
 ---
 
-# 🚀 <span style="color:#6BD5FF;">Tech Stack</span>
+## 📦 Project Resources
 
-<div align="center">
-
-| Category | Tools |
-|---------|-------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=dart,java,python,js,ts" /> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=flutter,react" /> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=firebase,mysql" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github" /> |
-
-</div>
+| Resource | Description |
+|--------|------------|
+| 💻 **Full Project Code** | Complete Flutter source code including all screens and logic |
+| 🧠 **Assets & Resources** | TensorFlow Lite model, datasets, screenshots, and assets |
 
 ---
 
-# 📦 <span style="color:#6BD5FF;">Featured Projects</span>
+## ✨ Features
 
-### 📸 **Mobile Image Classifier (Flutter + TFLite)**
-Offline image recognition using TensorFlow Lite.
+### 📸 Real-Time Scanning
+Instant identification of school supplies using the device camera with live preview and autofocus.
 
-### 💼 **Payroll / System Tools (Java)**
-Automated payroll, number systems, and logic-heavy utilities.
+### 🤖 AI Classification
+On-device **TensorFlow Lite** model ensures fast, private, and offline-capable recognition.
 
-### 🧪 **Learning Playground**
-Where I experiment with ML, UI, and prototypes.
+### 🖼 Gallery Support
+Analyze images selected from the device gallery with the same AI accuracy.
 
----
+### 📊 Smart Dashboard
+Displays total scans, accuracy rates, and daily activity in real time.
 
-# 🎯 <span style="color:#6BD5FF;">What I Do Best</span>
+### 🗂 Scan History
+View previous scans with thumbnails, timestamps, item names, and confidence scores.
 
-<div align="center">
-<table>
-<tr>
-  <td align="center" width="33%">
-    <img src="https://img.icons8.com/color/96/flutter.png" />
-    <h3 style="color:white;">📱 Mobile Engineering</h3>
-    <p style="color:#bfbfbf;">Clean UI · API Integration</p>
-  </td>
-
-  <td align="center" width="33%">
-    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/90/00A9FF/external-ai-artificial-intelligence-flatart-icons-outline-flatarticons.png"/>
-    <h3 style="color:white;">🤖 AI + ML Integration</h3>
-    <p style="color:#bfbfbf;">Mobile AI · Smart Features</p>
-  </td>
-
-  <td align="center" width="33%">
-    <img src="https://img.icons8.com/color/96/source-code.png"/>
-    <h3 style="color:white;">🛠 System Utilities</h3>
-    <p style="color:#bfbfbf;">Converters · Debug Tools</p>
-  </td>
-</tr>
-</table>
-</div>
+### ☁️ Cloud Sync
+Automatic Firebase backup ensures secure data storage and accessibility.
 
 ---
 
-# 📊 <span style="color:#6BD5FF;">GitHub Analytics</span>
+## 🖼 Screenshots
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=salabit093-gif&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salabit093-gif&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=salabit093-gif&theme=tokyonight&hide_border=true" />
-</div>
+| Home | Scanner | Gallery | Results | Predictions | History |
+|-----|--------|---------|---------|-------------|---------|
+| Dashboard & stats | Live camera scan | Pick from gallery | Accuracy & graph | Probability ranking | Cloud-synced logs |
 
 ---
 
-# 🐍 <span style="color:#6BD5FF;">Contribution Snake</span>
+## ⚙️ Prerequisites
 
-```md
-![snake](https://github.com/salabit093-gif/salabit093-gif/blob/output/github-contribution-grid-snake.svg)
+- Flutter SDK 3.0+
+- Dart SDK 3.0+
+- Android Studio / Xcode
+- Firebase account (for cloud features)
+
+---
+
+## 🔄 How It Works
+
+1. **Capture** – Take a photo or select an image from the gallery  
+2. **Process** – TensorFlow Lite analyzes image features  
+3. **Classify** – AI predicts the school supply with confidence score  
+4. **Save** – Results are stored automatically in Firebase  
+5. **Track** – View statistics and scan history anytime  
+
+---
+
+## 🧩 Screen Details
+
+- 🏠 **Home Dashboard** – Scan overview and statistics  
+- 📷 **Camera Scanner** – Live scanning interface  
+- 🖼 **Gallery Selection** – Choose images from device storage  
+- ✅ **Results & Predictions** – Confidence score and probability chart  
+- 🗂 **Scan History** – Timestamped and cloud-synced records  
+
+---
+
+## 🗃 Source Code Overview
+
+- `main.dart` – Main application entry point  
+- `tflite_helper.dart` – AI model loading and inference  
+- `firebase_options.dart` – Firebase configuration  
+
+---
+
+## 📬 Contact
+
+📧 **Email:** regie.salabit@csucc.edu.ph  
+🎓 **Project:** ITE120 Final Project  
+
+---
+
+> *SchoolLens – Making school supplies recognition smarter with mobile AI.*
